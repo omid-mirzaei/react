@@ -12,7 +12,7 @@ import {
   View,
   Button
 } from 'react-native';
-
+import Regform from './app/components/registeration';
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' +
     'Cmd+D or shake for dev menu',
@@ -25,8 +25,9 @@ export default class App extends Component<Props> {
   render() {
     return (
       <View style={styles.container}>
-        <Button >ثبت نام</Button>
-        <Button >ورود</Button>
+    <Regform>
+      
+    </Regform>
       </View>
     );
   }
@@ -48,5 +49,11 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     color: '#333333',
     marginBottom: 5,
+  },
+  regbutton: {
+    textAlign: 'right',
+    color: '#333333',
+    marginBottom: 5,
+    flex:1,
   },
 });
