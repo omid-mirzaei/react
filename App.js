@@ -28,6 +28,7 @@ export default class App extends Component<Props> {
     <Regform>
       
     </Regform>
+    <Text>sisibash</Text>
       </View>
     );
   }
