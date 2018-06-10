@@ -23,7 +23,7 @@ export default class Regform extends Component<Props> {
     return (
       <View style={styles.Regform}>
         <Text style={styles.header}>
-            عبدالخلیل
+            ثبت نام
         </Text>
         <TextInput  style={styles.TextInput} placeholder='نام کاربری' underlineColorAndroid={'transparent'}>
 
@@ -35,18 +35,19 @@ export default class Regform extends Component<Props> {
 
 const styles = StyleSheet.create({
 Regform:{
-alignSelf:'stretch'
+  
+
 },
 header:{
     fontSize:24,
-    color:'purple',
+    color:'#fff',
     paddingBottom:10,
 marginBottom:40,
 borderBottomColor:'blue',
 borderBottomWidth:1,
 },
 TextInput:{
-alignSelf:'stretch',
+
 height:40,
 marginBottom:30,
 borderBottomColor:'#f8f8f8',

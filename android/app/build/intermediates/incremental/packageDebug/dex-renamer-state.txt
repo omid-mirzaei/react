@@ -1,4 +1,4 @@
-#Sat Jun 09 22:20:28 IRDT 2018
-base.0=E\:\\first\\react\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Sun Jun 10 19:10:24 IRDT 2018
+base.0=C\:\\Users\\omid\\Desktop\\react\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.0=E\:\\first\\react\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=C\:\\Users\\omid\\Desktop\\react\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
